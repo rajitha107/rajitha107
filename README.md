@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Rajitha Siriwardhana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">💻 IT Support Assistant | 🌐 Web Developer | Passionate about solving tech problems and building user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitha107&label=Profile%20views&color=0e75b6&style=flat" alt="rajitha107" /> </p>
 
-- 🔭 I’m currently working on **Banking System**
+- 🔭 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap and React.js.
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
 
-- 📫 How to reach me **rajithasiriwardana121@gmail.com**
+- 📱 UI/UX: Familiar with Figma
+
+- 📝 Version Control: Git/GitHub proficiency.
+
+- ☁️ Deployment: Experienced in deploying on AWS
+
+- 🔍 Problem-solving: Strong debugging skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+- 💼 LinkedIn: (https://www.linkedin.com/in/rajitha-siriwardhana-628b84267/)
+  
+- 📧 Email: rajithasiriwardana121@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
